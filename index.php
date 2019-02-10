@@ -12,7 +12,7 @@
             require_once("static/html/navbar.html");
         ?>
         <div class="container">
-            <img id="welcomeimage" src="img/Welcome Page.jpg">
+            <img id="welcome-image" src="img/Welcome Page.jpg">
         </div>
     </body>
 </html>

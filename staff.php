@@ -12,7 +12,7 @@
             // Inserts navbar to page.
             require_once("static/html/navbar.html");
         ?>
-        <div class="container">
+        <div id="staff-container" class="container text-center">
             <img src="img/Bees.jpg">
             <h1>Andrea Sholenberger, Secretary</h1>
             <p>Is a daughter of St Paul's. Andi is responsible for day-to-day office duties and financial matters at St Paul's. She is the friendly and helpful voice that you hear on the telephone!</p>
@@ -25,7 +25,7 @@
             <img src="img/Barb and Chub.jpg">
             <hr>
             <footer>
-                All images shown are copyrighted C by the photographers Lindsey Simmons and Candi Haas-simmons.
+                All images shown are copyrighted © by the photographers Lindsey Simmons and Candi Haas-simmons.
                 <img src="img/Divider 2.jpg">
             </footer>
         </div>

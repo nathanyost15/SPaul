@@ -1,10 +1,17 @@
-body
-{
+body {
     background-color: #e6ecf0;
+    background-image: url("../../img/seamless-patterns-of-grey-and-black-lines(bright).jpg");
+    background-repeat: no-repeat;
 }
 
-#welcomeimage
-{
+#welcome-image {
     border-radius: 5px;
     margin-top: 10px;
+}
+
+#staff-container {    
+    background-color: #ffffff;
+    padding: 10px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
 }
