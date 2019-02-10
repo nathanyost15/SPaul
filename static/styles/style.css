@@ -1,13 +1,10 @@
 body
 {
     background-color: #e6ecf0;
-    background-image: url("img/Welcome Page.jpg");
-    background-repeat:no-repeat;
-    background-size: 100%;
 }
 
 #welcomeimage
 {
     border-radius: 5px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
