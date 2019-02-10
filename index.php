@@ -11,8 +11,8 @@
         <?php
             require_once("static/html/navbar.html");
         ?>
-        <div class="container">
-            <img id="welcome-image" src="img/Welcome Page.jpg">
+        <div id="welcome-container" class="container text-center col-12-lg">
+            <img id="welcome-image" class="auto-size-image" src="img/Welcome Page.jpg">            
         </div>
     </body>
 </html>
