@@ -12,10 +12,6 @@ body {
 }
 
 #welcome-container {
-    background-color: #ffffff;
-
-    border-right: 1px solid grey;
-    border-left: 1px solid grey;
     height: 100%;
 }
 
@@ -45,4 +41,15 @@ body {
 #music-btm-row-imgs {
     margin-top: 25px;
     margin-bottom: 25px;
+}
+
+#ch-hist-quilt-img {
+    padding:20px;
+}
+
+.container-style {
+    background-color: #ffffff;
+    padding: 10px;
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
 }

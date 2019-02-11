@@ -12,7 +12,7 @@
             // Inserts navbar to page.
             require_once("static/html/navbar.html");
         ?>
-        <div id="music-container" class="container text-center col-12-lg">
+        <div class="container container-style text-center col-12-lg">
 
             <div id="music-head-img" class="text-left">
                 <img class="auto-size-image" src="img/Music at St Pauls.jpg">
