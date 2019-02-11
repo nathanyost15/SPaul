@@ -30,3 +30,19 @@ body {
     border-right: 1px solid grey;
     border-left: 1px solid grey;
 }
+
+#music-container {
+    background-color: #ffffff;
+    padding: 10px;
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+}
+
+#music-head-img {
+    margin-bottom: 60px;
+}
+
+#music-btm-row-imgs {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

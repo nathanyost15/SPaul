@@ -22,12 +22,10 @@
             <img class="auto-size-image" src="img/Barb.jpg">
             <h1>Barb and Chub Stouch, Sextons.</h1>
             <p>Barb and Chub are responsible for keeping our church neat and clean.</p>
-            <img class="auto-size-image" src="img/Barb and Chub.jpg">
-            <hr>
-            <footer>
-                All images shown are copyrighted © by the photographers Lindsey Simmons and Candi Haas-simmons.
-                <img class="auto-size-image" src="img/Divider 2.jpg">
-            </footer>
+            <img class="auto-size-image" src="img/Barb and Chub.jpg">            
+            <?php
+                require_once("static/html/footer.html");
+            ?>
         </div>
     </body>
 </html>
